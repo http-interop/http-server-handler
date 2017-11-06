@@ -1,5 +1,5 @@
 {
-    "name": "http-interop/http-middleware",
+    "name": "http-interop/http-request-handlers",
     "description": "Common interface for HTTP server request handlers",
     "keywords": [
         "psr",
