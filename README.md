@@ -6,7 +6,7 @@ HTTP Server Handler
 **Starting January 22nd, 2018 http-interop is officially deprecated in favor of
 [PSR-15][psr-15].**
 
-From v1.1, this package directly extends PSR-15 interfaces to provide backwards
+From v2.0, this package directly extends PSR-15 interfaces to provide backwards
 compatibility and should no longer be added to new projects.
 
 Please switch to `psr/http-server-handler` as soon as possible.
