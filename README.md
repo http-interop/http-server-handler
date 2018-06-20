@@ -50,6 +50,6 @@ use Interop\Http\Server\RequestHandlerInterface;
 with:
 
 ```php
-use Psr\Http\Server\RequestHandlerInterface;`
+use Psr\Http\Server\RequestHandlerInterface;
 ```
 
